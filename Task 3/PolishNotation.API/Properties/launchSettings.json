@@ -1,0 +1,15 @@
+﻿{
+  "profiles": {
+    "PolishNotation.API": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:7070;http://localhost:5070",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DOTNET_GCHeapHardLimit": "10000000"
+      }
+    }
+  }
+}

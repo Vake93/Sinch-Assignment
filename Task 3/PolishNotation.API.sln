@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolishNotation.API", "PolishNotation.API\PolishNotation.API.csproj", "{A92F18EF-A7F9-4055-A48E-1B557441B3BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{7A4A5E18-47CE-4F69-B772-03C5AA8225CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A92F18EF-A7F9-4055-A48E-1B557441B3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92F18EF-A7F9-4055-A48E-1B557441B3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92F18EF-A7F9-4055-A48E-1B557441B3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92F18EF-A7F9-4055-A48E-1B557441B3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4A5E18-47CE-4F69-B772-03C5AA8225CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4A5E18-47CE-4F69-B772-03C5AA8225CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4A5E18-47CE-4F69-B772-03C5AA8225CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4A5E18-47CE-4F69-B772-03C5AA8225CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
