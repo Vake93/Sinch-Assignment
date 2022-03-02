@@ -1,5 +1,5 @@
 # Read Me
-Each task is under its own folder. All services are wriiten with .NET 6. There for you must have at least .NET SDK version 6.0.100 installed to build and run this. Additionally VSCode or Visual Studio 2022 is required for debugging the code. 
+Each task is under its own folder. All services are written with .NET 6. There for you must have .NET SDK version 6.0.100 installed to build and run repo. Additionally VSCode or Visual Studio 2022 is required for debugging the code. 
 
 ___
 ## Task 1
